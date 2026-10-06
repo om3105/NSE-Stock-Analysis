@@ -1,6 +1,6 @@
 # NSE Stock Analysis
 
-Live demo: [LIVE DEMO URL]
+Live demo: https://nse-stock-analysis-w21f.onrender.com/
 
 The demo runs on Render's free tier, which sleeps after 15 minutes without visitors. If it has been asleep, the first load takes about a minute.
 
